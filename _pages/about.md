@@ -1,16 +1,27 @@
 ---
 permalink: /
-excerpt: "PhD(c) at UIUC"
-author_profile: true
+excerpt: "Ph.D. Candidate at UIUC"
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
-
 <div class="home-banner">
-  <img src="{{ '/images/maroon-bells.jpg' | relative_url }}"
-       alt="'Maroon Bells Sunset· Photo by <a href="https://unsplash.com/@mscheid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mike Scheid</a> on <a href="https://unsplash.com/photos/body-of-water-across-the-mountain-during-sunset-xoYPV4oVQJI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'">
+  <img
+    src="{{ '/images/maroon-bells.jpg' | relative_url }}"
+    alt="Maroon Bells reflected in a lake at sunset"
+  >
+  <p class="banner-credit">
+    Photo by
+    <a href="https://unsplash.com/@mscheid" target="_blank" rel="noopener noreferrer">
+      Mike Scheid
+    </a>
+    on
+    <a href="https://unsplash.com/photos/xoYPV4oVQJI" target="_blank" rel="noopener noreferrer">
+      Unsplash
+    </a>
+  </p>
 </div>
 
 
