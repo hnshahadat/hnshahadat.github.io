@@ -3,8 +3,9 @@
    ========================================================================== */
 
 .masthead {
-  position: fixed;
+  position: relative;
   background: var(--global-bg-color);
+  border-bottom: 1px solid $border-color;
   height: fit-content;
   top: 0;
   width: 100%;

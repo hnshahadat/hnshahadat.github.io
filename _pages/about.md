@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "Assistant Professor of Agricultural & Applied Economics at Virginia Tech"
+excerpt: "PhD(c) at UIUC"
 author_profile: true
 header:
   image: maroon-bells.jpg
@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 ## Welcome to my website!
-{: #welcome}
+{: #about}
 
 I am a Ph.D. candidate in Agricultural and Applied Economics at the University of Illinois Urbana-Champaign. My research examines commodity markets, agricultural systems, and rural development, with a particular focus on how price dynamics, market imperfections, and technological change shape production decisions, labor allocation, and household welfare in developing and emerging economies. 
 
