@@ -31,7 +31,7 @@ author:
   location         : "<a style='color: black;' href='https://maps.app.goo.gl/q8xHh8o15mWs7nLz5'>Urbana, IL</a>"
   employer         : "<a style='color: black;' href='https://illinois.edu/'>University of Illinois (UIUC)</a>"
   uri              : # URL
-  email            : "sh52@llinois.edu" 
+  email            : "sh52@illinois.edu" 
 
   # Academic websites
   academia         : # URL
@@ -222,6 +222,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  about:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -275,6 +278,15 @@ defaults:
   - scope:
       path: ""
       type: cv
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _about
+  - scope:
+      path: ""
+      type: about
     values:
       layout: single
       author_profile: true
