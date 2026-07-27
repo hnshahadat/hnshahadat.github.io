@@ -331,11 +331,14 @@
   }
 }
 
-/* Keep author profile below the banner */
+/* Author profile begins below the banner */
 .sidebar {
-  position: static !important;
-  top: auto !important;
-  height: auto;
-  overflow: visible;
-  transform: none;
+  position: relative;
+
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    position: sticky;
+    top: calc(#{$masthead-height} + 1rem);
+    height: auto;
+    overflow-y: auto;
+  }
 }

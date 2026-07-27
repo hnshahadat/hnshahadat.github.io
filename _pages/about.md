@@ -5,28 +5,11 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+
 header:
   image: maroon-bells-crop.jpg
-  caption: 'Maroon Bells Sunset· Photo by <a href="https://unsplash.com/@mscheid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mike Scheid</a> on <a href="https://unsplash.com/photos/body-of-water-across-the-mountain-during-sunset-xoYPV4oVQJI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  caption: 'Maroon Bells Sunset · Photo by <a href="https://unsplash.com/@mscheid">Mike Scheid</a> on <a href="https://unsplash.com/photos/xoYPV4oVQJI">Unsplash</a>'
 ---
-
-<div class="home-banner">
-  <img
-    src="{{ '/images/maroon-bells.jpg' | relative_url }}"
-    alt="Maroon Bells reflected in a lake at sunset"
-  >
-  <p class="banner-credit">
-    Photo by
-    <a href="https://unsplash.com/@mscheid" target="_blank" rel="noopener noreferrer">
-      Mike Scheid
-    </a>
-    on
-    <a href="https://unsplash.com/photos/xoYPV4oVQJI" target="_blank" rel="noopener noreferrer">
-      Unsplash
-    </a>
-  </p>
-</div>
-
 
 ## Welcome to my website!
 {: #about}

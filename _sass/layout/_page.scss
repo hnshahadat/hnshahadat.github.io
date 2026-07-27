@@ -160,10 +160,20 @@
   }
 }
 
+/* Standard banner using header.image */
 .page__hero-image {
+  display: block;
   width: 100%;
-  height: auto;
-  -ms-interpolation-mode: bicubic;
+  height: 300px;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* Mobile banner */
+@media (max-width: 767px) {
+  .page__hero-image {
+    height: 180px;
+  }
 }
 
 .page__hero-caption {
