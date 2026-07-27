@@ -5,10 +5,6 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-
-header:
-  image: maroon-bells-crop.jpg
-  caption: 'Maroon Bells Sunset · Photo by <a href="https://unsplash.com/@mscheid">Mike Scheid</a> on <a href="https://unsplash.com/photos/xoYPV4oVQJI">Unsplash</a>'
 ---
 
 ## Welcome to my website!
