@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Welcome!"
 excerpt: "Ph.D. Candidate at UIUC"
 author_profile: true
 redirect_from:

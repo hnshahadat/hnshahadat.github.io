@@ -553,3 +553,23 @@
     min-height: 180px;
   }
 }
+
+/* Shared avatar and heading color */
+:root {
+  --profile-accent-color: #2f7f93;
+}
+
+/* Avatar border */
+.author__avatar img {
+  border: 3px solid var(--profile-accent-color);
+}
+
+/* “Welcome to my website!” */
+.page__title {
+  color: var(--profile-accent-color);
+}
+
+/* “About” heading */
+.page__content #about {
+  color: var(--profile-accent-color);
+}
