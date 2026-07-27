@@ -228,9 +228,6 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  about:
-    output: true
-    permalink: /:collection/:path/
   cv:
     output: true
     permalink: /:collection/:path/
