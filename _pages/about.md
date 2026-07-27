@@ -1,7 +1,7 @@
 ---
 permalink: /
 excerpt: "Ph.D. Candidate at UIUC"
-author_profile: false
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
