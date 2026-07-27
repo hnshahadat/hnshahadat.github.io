@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+
+<div class="home-banner">
+  <img src="{{ '/images/maroon-bells.jpg' | relative_url }}"
+       alt="'Maroon Bells Sunset· Photo by <a href="https://unsplash.com/@mscheid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mike Scheid</a> on <a href="https://unsplash.com/photos/body-of-water-across-the-mountain-during-sunset-xoYPV4oVQJI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'">
+</div>
+
+
 ## Welcome to my website!
 {: #about}
 
