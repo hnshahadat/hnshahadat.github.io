@@ -12,7 +12,7 @@ site_theme               : "contrast" # The available themes options are "defaul
 title                    : "Shahadat Hossain"
 title_separator          : "-"
 name                     : &name "Shahadat Hossain"
-description              : &description "Applied Economist <br/> Ph.D Candidate @UIUC"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Ph.D.(c) at <a style='color: black;' href='https://illinois.edu/'>UIUC</a>" | Applied Economist"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://hnshahadat.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,10 +28,10 @@ author:
   name             : "Shahadat Hossain"
   pronouns         : "he/his"  
   bio              : "Ph.D.(c) at <a style='color: black;' href='https://illinois.edu/'>UIUC</a>" | Applied Economist"
-  location         : "Urbana, IL"
-  employer         : "University of Illinois Urbana Champaign"
+  location         : "<a style='color: black;' href='https://maps.app.goo.gl/q8xHh8o15mWs7nLz5'>Urbana, IL</a>"
+  employer         : "<a style='color: black;' href='https://illinois.edu/'>University of Illinois (UIUC)</a>"
   uri              : # URL
-  email            : "sh52 [at] illinois [dot] edu" 
+  email            : "sh52@llinois.edu" 
 
   # Academic websites
   academia         : # URL
