@@ -573,3 +573,8 @@
 .page__content #about {
   color: var(--profile-accent-color);
 }
+
+.masthead .site-title,
+.greedy-nav .site-title {
+  color: var(--global-text-color);
+}
