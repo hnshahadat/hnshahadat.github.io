@@ -10,7 +10,8 @@
   height: fit-content;
   z-index: 1000;
 
-  background-color: #eaf3fb;
+  /* Default theme background */
+  background-color: var(--global-bg-color);
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
 
   -webkit-animation: intro 0.3s both;
@@ -24,7 +25,7 @@
     bottom: 0;
     width: 100%;
     height: 1px;
-    background-color: #c5d9eb;
+    background-color: var(--global-border-color);
   }
 
   &__inner-wrap {
@@ -133,8 +134,10 @@
     background-color: transparent;
   }
 
+  /* Collapsed navigation dropdown */
   .hidden-links {
-    background-color: #eaf3fb;
+    background-color: var(--global-bg-color);
+    border: 1px solid var(--global-border-color);
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12);
 
     a {
@@ -143,7 +146,7 @@
 
     a:hover {
       color: #0b65a5;
-      background-color: #dbeaf7;
+      background-color: var(--global-border-color);
     }
   }
 }

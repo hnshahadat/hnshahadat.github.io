@@ -330,3 +330,12 @@
     }
   }
 }
+
+/* Keep author profile below the banner */
+.sidebar {
+  position: static !important;
+  top: auto !important;
+  height: auto;
+  overflow: visible;
+  transform: none;
+}
