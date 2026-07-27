@@ -24,14 +24,14 @@ seo_description          : "Site for Shahadat Hossain, Ph.D. Candidate at UIUC"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Shahadat Hossain"
-  pronouns         : "He/His"
-  bio              : "Ph.D.(c) | Applied Economist"
-  location         : '<a style="display: inline;" href='https://maps.app.goo.gl/q8xHh8o15mWs7nLz5">Urbana, IL</a>'
-  employer         : '<a style="display: inline;" href='https://illinois.edu/">University of Illinois</a>'
-  uri              :
-  email            : "sh52@illinois.edu"
+  avatar     : "profile.png"
+  name       : "Shahadat Hossain"
+  pronouns   : "He/Him"
+  bio        : "Ph.D.(c) | Applied Economist"
+  location   : '<a href="https://maps.app.goo.gl/q8xHh8o15mWs7nLz5">Urbana, IL</a>'
+  employer   : '<a href="https://illinois.edu/">University of Illinois</a>'
+  uri        :
+  email      : "sh52@illinois.edu"
 
   # Academic websites
   academia         : # URL
