@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Shahadat Hossain"
 title_separator          : "-"
 name                     : &name "Shahadat Hossain"
@@ -225,13 +225,13 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  about:
     output: true
     permalink: /:collection/:path/
-  talks:
+  cv:
     output: true
     permalink: /:collection/:path/
 
@@ -265,32 +265,24 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _cv
   - scope:
       path: ""
-      type: portfolio
+      type: cv
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS
