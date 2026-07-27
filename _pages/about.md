@@ -2,9 +2,6 @@
 permalink: /
 excerpt: "PhD(c) at UIUC"
 author_profile: true
-header:
-  image: maroon-bells.jpg
-  caption: 'Maroon Bells Sunset· Photo by <a href="https://unsplash.com/@mscheid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mike Scheid</a> on <a href="https://unsplash.com/photos/body-of-water-across-the-mountain-during-sunset-xoYPV4oVQJI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
 redirect_from:
   - /about/
   - /about.html
