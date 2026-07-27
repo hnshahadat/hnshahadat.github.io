@@ -342,3 +342,24 @@
     overflow-y: auto;
   }
 }
+
+
+/* Align location and employer icons with their text */
+.author__urls li.author__bio-link {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  white-space: nowrap;
+}
+
+.author__urls li.author__bio-link i {
+  flex: 0 0 auto;
+  margin: 0;
+}
+
+.author__urls li.author__bio-link a {
+  display: inline-block !important;
+  margin: 0;
+  padding: 0;
+  line-height: 1.4;
+}
