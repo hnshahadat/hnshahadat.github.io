@@ -526,3 +526,20 @@
     text-align: center;
   }
 }
+
+/* Standard banner height */
+.page__hero--overlay {
+  min-height: 300px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Mobile banner height */
+@media (max-width: 767px) {
+  .page__hero--overlay {
+    min-height: 180px;
+  }
+}
