@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Shahadat Hossain"
 title_separator          : "-"
 name                     : &name "Shahadat Hossain"
@@ -27,7 +27,7 @@ author:
   avatar           : "profile.png"
   name             : "Shahadat Hossain"
   pronouns         : "he/his"  
-  bio              : "Ph.D Candidate | Applied Economist"
+  bio              : "Ph.D.(c) at <a style='color: black;' href='https://illinois.edu/'>UIUC</a>" | Applied Economist"
   location         : "Urbana, IL"
   employer         : "University of Illinois Urbana Champaign"
   uri              : # URL
@@ -52,13 +52,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "shossain"
+  github           : "hnshahadat"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
