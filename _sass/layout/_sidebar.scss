@@ -363,3 +363,24 @@
   padding: 0;
   line-height: 1.4;
 }
+
+
+/* Keep location and employer text beside their icons */
+.sidebar .author__urls li.author__desktop.author__bio-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  white-space: nowrap;
+}
+
+.sidebar .author__urls li.author__desktop.author__bio-link > i {
+  flex: 0 0 auto;
+  padding-right: 0;
+  margin-right: 0;
+}
+
+.sidebar .author__urls li.author__desktop.author__bio-link > a {
+  display: inline !important;
+  margin: 0;
+  padding: 0;
+}
