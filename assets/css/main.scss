@@ -2,38 +2,140 @@
 ---
 
 /*
- * This file controls what is imported from /_sass
+ *    Minimal Mistakes Jekyll Theme
  *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
 
-@import
-    "vendor/breakpoint/breakpoint",
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
 
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+@import "reset";
+@import "base";
 
-    "include/mixins",
-    "vendor/susy/susy",
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
 
-    "layout/reset",
-    "layout/base",
+@import "forms";
 
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
+@import "page";
+@import "archive";
+@import "sidebar";
 
-    "layout/forms",
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
 
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv"
-;
+
+/* ===== Custom minimal overrides ===== */
+html {
+  font-size: 16px;
+  @include breakpoint($medium) { font-size: 16px; }
+}
+
+.page__content {
+  line-height: 1.5;
+
+  h1, h2, h3, h4 {
+    line-height: 1.2;
+    margin-top: 1.2em;
+    margin-bottom: 0.4em;
+  }
+  h2 { font-size: $type-size-3; }
+  h3 { font-size: $type-size-4; }
+  h4 { font-size: $type-size-5; }
+}
+
+.page__title { font-size: $type-size-2; margin-bottom: 0.4em; }
+
+/* maroon accent under section headings */
+.page__content h2 { border-bottom: 2px solid #861F41; }
+
+/* homepage banner: crop the hero into a clean banner strip */
+.page__hero-image {
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 4px;
+
+  @include breakpoint($medium) { height: 300px; }
+}
+
+/* caption sits as a gray line below the banner, not overlaid on it */
+.page__hero-caption {
+  position: static;
+  display: block;
+  margin: 0.35em 0 0;
+  padding: 0;
+  background: none;
+  opacity: 1;
+  color: $gray;
+  font-style: italic;
+  text-align: right;
+
+  a { color: $gray; text-decoration: underline; }
+}
+
+/* news/announcements feed: highlight box with maroon accent bar + divider lines */
+.news-feed {
+  background: #faf7f8;
+  border-left: 4px solid #861F41; /* VT maroon */
+  border-radius: 3px;
+  padding: 0.4em 1.1em;
+  margin: 0.6em 0 1.3em;
+}
+.news-feed p {
+  margin: 0;
+  padding: 0.7em 0;
+  border-top: 1px solid #ece2e5;
+  line-height: 1.5;
+}
+.news-feed p:first-child { border-top: 0; padding-top: 0.15em; }
+.news-feed p:last-child { padding-bottom: 0.15em; }
+
+/* highlighted (most important) news item — distinct color, same block */
+.news-feed .news-highlight {
+  color: #0B3D91; /* NASA blue */
+  background: #eef3fb;
+  border-left: 3px solid #0B3D91;
+  border-radius: 3px;
+  padding: 0.55em 0.7em;
+  margin: 0.15em 0 0.3em;
+}
+.news-feed .news-highlight strong { color: #0B3D91; }
+
+/* course-enrollment notice — VT burnt orange, same block style */
+.news-feed .news-course {
+  color: #7a3c00;
+  background: #fdf3e7;
+  border-left: 3px solid #C64600; /* VT burnt orange */
+  border-radius: 3px;
+  padding: 0.55em 0.7em;
+  margin: 0.3em 0;
+}
+.news-feed .news-course strong { color: #963500; }
+
+/* horizontally flip an inline emoji/icon */
+.flip-x { display: inline-block; transform: scaleX(-1); }
+
+/* keep the sidebar location (map-pin) icon and its text on the same line */
+.author__urls li .fa-map-marker + a { display: inline; }
+
+/* numbered, compact publication lists */
+ol.pub-list { margin: 0.3em 0 1.2em 1.5em; padding: 0; }
+ol.pub-list li { margin-bottom: 0.6em; line-height: 1.45; }
+.pub-link { font-size: 0.85em; white-space: nowrap; }

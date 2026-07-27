@@ -1,21 +1,20 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
-
+# main navigation links — single-page anchors + CV (opens PDF in new tab)
 main:
   - title: "About"
-    url: /about
-    
-  - title: "Research"
-    url: /research/
+    url: /#about
+
+  - title: "News"
+    url: /#news
+
+  - title: "Publications"
+    url: /#publications
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /#teaching
+
+  - title: "Team"
+    url: /#team
+
   - title: "CV"
-    url: /cv/
+    url: /files/cv_Benami_june2026.pdf
+    target: "_blank"
