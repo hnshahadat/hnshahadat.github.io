@@ -1,64 +1,51 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<a class="cv-download" href="{{ base_path }}/files/Shahadat_Hossain_CV.pdf" target="_blank">
+  <i class="fas fa-file-pdf" aria-hidden="true"></i>
+  Download Full CV
+</a>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Ph.D. in Agricultural and Applied Economics**  
+University of Illinois Urbana-Champaign, expected August 2026  
+Specializations: Agricultural Commodity Markets and International Development Economics
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**M.S.S. in Economics**, University of Dhaka, 2015  
+**B.S.S. in Economics**, University of Dhaka, 2014
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research Interests
+
+Agricultural and development economics; commodity markets; rural labor and household welfare; applied econometrics and causal inference.
+
+## Research and Professional Experience
+
+**Graduate Research Assistant — University of Illinois Urbana-Champaign**  
+*2021–Present*
+
+- Conduct research on agricultural markets, household behavior, labor allocation, and rural development.
+- Analyze experimental, household, market, administrative, and geospatial data using R, Stata, and Python.
+
+**Short-Term Consultant — World Bank**  
+*2024*
+
+- Conducted empirical research on gender, employment, and mental health in South Asia.
+
+**Research Analyst — International Food Policy Research Institute**  
+*2017–2021*
+
+- Researched commodity markets, food security, agricultural value chains, storage, and price policy.
+
+**Research Associate — Bangladesh Institute of Development Studies**  
+*2016–2017*
+
+- Supported survey design, field implementation, data quality assurance, and applied policy research.
