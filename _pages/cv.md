@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a class="cv-download" href="{{ base_path }}/files/Shahadat_Hossain_CV.pdf" target="_blank">
+<a class="cv-download" href="{{ base_path }}/files/CV_Shahadat.pdf" target="_blank">
   <i class="fas fa-file-pdf" aria-hidden="true"></i>
   Download Full CV
 </a>
