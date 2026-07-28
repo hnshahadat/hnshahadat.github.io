@@ -35,7 +35,7 @@ The analysis distinguishes household-specific exposure from the economy-wide dis
 
 ### Son preference, intergenerational household dynamics, and women's mental health in India [(Read the paper)](https://doi.org/10.1016/j.jdeveco.2026.103867)
 
-*Accepted, Journal of Development Economics*
+*Journal of Development Economics, coauthor*
 
 This collaborative study examines how the sex of a daughter-in-law's firstborn child affects women’s mental health, time allocation, and employment in multigenerational households in India. Using firstborn sex as a source of quasi-random variation, the study shows that son preference affects not only mothers but also co-resident mothers-in-law.
 
