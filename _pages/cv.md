@@ -15,6 +15,7 @@ redirect_from:
 </a>
 
 ## Education
+---
 
 **Ph.D. in Agricultural and Applied Economics**  
 University of Illinois Urbana-Champaign, expected August 2026  
@@ -24,10 +25,12 @@ Specializations: Agricultural Commodity Markets and International Development Ec
 **B.S.S. in Economics**, University of Dhaka, 2014
 
 ## Research Interests
+---
 
 Agricultural and development economics; commodity markets; rural labor and household welfare; applied econometrics and causal inference.
 
 ## Research and Professional Experience
+---
 
 **Graduate Research Assistant — University of Illinois Urbana-Champaign**  
 *2021–Present*
