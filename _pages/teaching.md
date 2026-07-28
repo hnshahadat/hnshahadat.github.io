@@ -12,7 +12,7 @@ My teaching focuses on helping students connect economic concepts with real-worl
 
 #### World Food Economy (ACE 251)
 
-**Teaching Assistant** | *Fall 2025*
+**Teaching Assistant**
 
 - Led discussion sections on food production, consumption, trade, food security, population, and global agricultural development.
 - Explained economic concepts through contemporary examples from developed and developing countries.
@@ -27,20 +27,13 @@ My teaching focuses on helping students connect economic concepts with real-worl
 - Helped students interpret economic models, graphs, and quantitative evidence.
 - Provided feedback on assignments and assisted students during office hours.
 
-#### International Business Immersion (ACE 440)
-
-**Teaching Assistant**
-
-- Supported experiential learning activities connecting international business, agriculture, and economic development.
-- Assisted students with research, analysis, and the communication of project findings.
-
 ---
 
 ### BRAC University
 
 #### Applied Statistical Methods
 
-**Instructor** | *2017*
+**Instructor**
 
 - Taught applied statistics and quantitative methods for economic and social-science research.
 - Introduced students to data management, descriptive statistics, statistical inference, and regression analysis.
@@ -48,7 +41,7 @@ My teaching focuses on helping students connect economic concepts with real-worl
 
 ## Teaching Approach
 
-I view economics as a practical framework for understanding decisions, institutions, and public-policy challenges. My teaching therefore connects economic theory with current issues in food systems, agricultural markets, inequality, and international development.
+I view economics as a practical framework for understanding decisions, institutions, and public-policy challenges. My teaching therefore connects economic theory with current issues in food systems, agricultural markets, and international development.
 
 My approach is guided by three principles:
 
