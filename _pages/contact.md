@@ -15,6 +15,7 @@ University of Illinois Urbana-Champaign
 **Email:** [sh52@illinois.edu](mailto:sh52@illinois.edu)  
 **Location:** Urbana, Illinois, United States
 
-You can also connect with me through [LinkedIn]({{ site.author.linkedin }}) or view my work on [GitHub]({{ site.author.github }}).
+You can also connect with me on
+[LinkedIn](www.linkedin.com/in/shahadat-hossain-149a8b65) or view my work on [GitHub](https://github.com/hnshahadat/).
 
 For more information, please visit my [Research](/research/), [Teaching](/teaching/), or [CV](/cv/) page.
