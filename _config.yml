@@ -24,7 +24,7 @@ seo_description          : "Site for Shahadat Hossain, Ph.D. Candidate at UIUC"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar     : "profile.png"
+  avatar     : "profile.jpg"
   name       : "Shahadat Hossain"
   pronouns   : "He/Him"
   bio        : "Ph.D.(c) | Applied Economist"
