@@ -31,21 +31,21 @@ Agricultural and development economics; commodity markets; rural labor and house
 
 **Graduate Research Assistant — University of Illinois Urbana-Champaign**  
 *2021–Present*
-
 - Conduct research on agricultural markets, household behavior, labor allocation, and rural development.
 - Analyze experimental, household, market, administrative, and geospatial data using R, Stata, and Python.
 
 **Short-Term Consultant — World Bank**  
 *2024*
-
 - Conducted empirical research on gender, employment, and mental health in South Asia.
 
 **Research Analyst — International Food Policy Research Institute**  
 *2017–2021*
-
 - Researched commodity markets, food security, agricultural value chains, storage, and price policy.
 
-**Research Associate — Bangladesh Institute of Development Studies**  
+**Research Associate — BRAC Institute of Governance and Development**  
 *2016–2017*
-
 - Supported survey design, field implementation, data quality assurance, and applied policy research.
+
+
+For complete project descriptions, see [Research](/research/).  
+For courses and teaching roles, see [Teaching](/teaching/).
