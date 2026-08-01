@@ -11,10 +11,14 @@ redirect_from:
 ## About
 {: #about}
 
-I am a Ph.D. candidate in Agricultural and Applied Economics at the University of Illinois Urbana-Champaign. My research examines commodity markets, agricultural systems, and rural development, with a particular focus on how price dynamics, market imperfections, and technological change shape production decisions, labor allocation, and household welfare in developing and emerging economies. 
+<div style="text-align: justify;">
 
-My work combines agricultural economics, development economics, and applied microeconomics to study the effects of market incentives and public policies on rural households. Methodologically, I specialize in applied econometrics, causal inference, and the analysis of large-scale household, agricultural, and market data, including randomized controlled trials and longitudinal panel surveys. I am also interested in integrating machine learning methods into empirical economic research. 
+I am a Ph.D. candidate in Agricultural and Applied Economics at the University of Illinois Urbana-Champaign. My research combines applied microeconomics, agricultural economics, and development economics to examine how prices, market incentives, and public policies shape production decisions, labor allocation, and household welfare. I specialize in applied econometrics, causal inference, forecasting, and the analysis of large-scale survey, market, and administrative data using R, Python, SQL, and Stata.
 
-Before beginning my Ph.D., I worked as a Research Analyst at the International Food Policy Research Institute (IFPRI). I have also held research positions at the World Bank and the BRAC Institute of Governance and Development, where I contributed to projects on agricultural markets, food security, and economic development.
+Before joining UIUC, I worked as a Research Analyst at the International Food Policy Research Institute (IFPRI) and have also held research positions with the World Bank and the BRAC Institute of Governance and Development. My work spans commodity markets, food systems, rural development, and policy evaluation, with an emphasis on translating rigorous quantitative analysis into evidence that informs policy and business decisions.
+
+My broader research interests lie at the intersection of economics, data science, and public policy. I am particularly interested in integrating remote sensing, geospatial data, and machine learning into empirical economic research to better understand agricultural systems, environmental change, and sustainable development.
+
+</div>
 
 **Full CV linked [here](https://hnshahadat.github.io/files/CV_Shahadat.pdf)**

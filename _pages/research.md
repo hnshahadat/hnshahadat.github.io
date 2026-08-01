@@ -9,69 +9,77 @@ children:
       url: /publications/
 ---
 
-## Job Market Paper
+## Research
 
-### Commodity Prices, Shadow Wages, and Household Labor Allocation under Imperfect Labor Markets [(Read the paper)](https://hnshahadat.github.io/files/Poultry_Labor_BD.pdf)
+My research examines how markets, incentives, and public policies shape agricultural production, labor allocation, and household welfare. I combine applied microeconomic theory with econometric and data science methods to study agricultural markets, rural development, and policy-relevant questions using large-scale household, market, and administrative data.
 
-How do agricultural output prices affect household labor supply when product and labor markets are incomplete? I examine this question using three rounds of the Bangladesh Integrated Household Survey and a non-separable agricultural household model. In this framework, changes in chicken and egg prices affect labor allocation through household members’ shadow wages and household shadow income.
-
-The empirical analysis combines household fixed effects with an instrumental-variables strategy. The findings indicate that higher own shadow wages increase labor-force participation and hours worked among both women and men, whereas greater shadow income reduces labor supply. Changes in women’s shadow wages also affect men’s livestock labor, providing evidence of within-household labor reallocation. These responses are stronger among households with greater livestock ownership and those with multiple adult women.
-
-**Research areas:** Agricultural household models · Commodity prices · Market imperfections · Labor supply · Gender · Livestock · Bangladesh
+My current research focuses on agricultural household behavior, commodity markets, labor allocation, food systems, and rural development. Methodologically, I specialize in applied econometrics, causal inference, forecasting, and panel data analysis, and I am increasingly interested in integrating remote sensing, geospatial data, and machine learning into empirical economic research.
 
 ---
 
-## Other Dissertation Research
+# Job Market Paper
 
-### Effect of Household-Specific Shocks during an Economy-Wide Crisis on Welfare and Coping
+## Commodity Prices, Shadow Wages, and Household Labor Allocation under Imperfect Labor Markets
+[(Working Paper)](https://hnshahadat.github.io/files/Poultry_Labor_BD.pdf)
 
-This paper examines how household-level illness and job-loss shocks affected rural households during the COVID-19 crisis in Bangladesh. Using household panel data collected before and during the pandemic, I estimate effects on income, expenditure, assets, food security, labor supply, migration, occupational adjustment, and participation in social protection programs.
+How do commodity price changes affect household labor allocation when labor markets are imperfect? This paper develops a non-separable agricultural household framework to examine how changes in local chicken and egg prices influence labor allocation through household-specific shadow wages and shadow income. Using three waves of the Bangladesh Integrated Household Survey, I combine household fixed effects with an instrumental variables strategy to recover shadow wages and identify the mechanisms linking commodity prices to household labor decisions.
 
-The analysis distinguishes household-specific exposure from the economy-wide disruption experienced by all sampled households. It uses covariate-adjusted difference-in-differences and doubly robust estimators to improve comparability between exposed and unexposed households. The study also examines heterogeneous responses by shock type, initial economic status, and gender. Preliminary findings indicate declines in income and assets, increased food insecurity, and substantial variation in households’ labor-market responses.
+The findings show that higher household-specific shadow wages increase labor devoted to poultry production, while changes in household shadow income are associated with broader adjustments in labor allocation. The results provide new evidence on how commodity price shocks influence family labor decisions through household-specific opportunity costs rather than observed market wages.
 
-**Research areas:** Household shocks · COVID-19 · Food security · Labor markets · Difference-in-differences · Bangladesh
-
----
-
-### Son preference, intergenerational household dynamics, and women's mental health in India [(Read the paper)](https://doi.org/10.1016/j.jdeveco.2026.103867)
-
-*Journal of Development Economics, coauthor*
-
-This collaborative study examines how the sex of a daughter-in-law's firstborn child affects women’s mental health, time allocation, and employment in multigenerational households in India. Using firstborn sex as a source of quasi-random variation, the study shows that son preference affects not only mothers but also co-resident mothers-in-law.
-
-Mothers-in-law whose daughters-in-law have a firstborn son face a lower risk of anxiety or depression by around 15 percent. The birth of a grandson also shifts mothers-in-law’s time toward childcare, increases their support for daughters-in-law’s employment, and raises labor-force participation among younger daughters-in-law. The findings demonstrate how gender preferences can shape well-being and economic behavior across generations.
-
-**Research areas:** Son preference · Mental health · Intergenerational households · Women's employment · India
+**Keywords:** Agricultural household models · Commodity markets · Shadow wages · Labor allocation · Gender · Livestock · Bangladesh
 
 ---
 
-## Ongoing Research
+# Dissertation Research
 
-### Cooperative Participation and Soil-Conservation Practices in Pará, Brazil
+## Household-Specific Shocks During an Economy-Wide Crisis: Welfare and Coping Responses in Bangladesh
 
-This project examines whether participation in agricultural cooperatives is associated with greater adoption of soil-conservation practices among farmers in Pará, Brazil. The analysis considers individual conservation practices and a composite soil-management index while accounting for observed differences between cooperative participants and nonparticipants.
+This paper examines how household-specific illness and job-loss shocks affected rural households during the COVID-19 pandemic while separating these effects from the broader economy-wide disruption experienced by all households. Using household panel data collected before and during the pandemic, I estimate impacts on income, assets, food security, labor supply, migration, occupational adjustment, and participation in social protection programs.
 
-The broader objective is to understand whether collective institutions can reduce barriers to adopting sustainable agricultural practices.
+The analysis applies covariate-adjusted difference-in-differences and doubly robust estimators to evaluate heterogeneous responses across households with different shock exposure, initial economic conditions, and gender.
 
-**Research areas:** Agricultural cooperatives · Technology adoption · Soil conservation · Sustainable agriculture · Brazil
-
----
-
-## Previous Research
-
-### Rice Markets, Price Stabilization, and Food-Supply Systems in South Asia
-
-At the International Food Policy Research Institute, I contributed to research on rice value chains, private storage and transportation, and food-price stabilization policies in South Asia. This work combined primary survey data, market analysis, and economic modeling to examine how market structure and public policy affect food availability, prices, and value-chain participants.
-
-**Research areas:** Rice markets · Price stabilization · Agricultural value chains · Storage · Transportation · South Asia
+**Keywords:** COVID-19 · Household shocks · Food security · Labor markets · Difference-in-differences · Bangladesh
 
 ---
 
-### Postharvest Loss and Grain-Storage Decisions
+## Son Preference, Intergenerational Household Dynamics, and Women's Mental Health in India
+[(Journal of Development Economics)](https://doi.org/10.1016/j.jdeveco.2026.103867)
 
-At the ADM Institute for the Prevention of Postharvest Loss, I contributed to research on grain-storage technologies, postharvest losses, and farmers’ storage decisions. This work involved economic simulations and the development of interactive tools for communicating research findings to researchers, practitioners, and policymakers.
+*Coauthor*
 
-**Research areas:** Postharvest loss · Storage technology · Economic simulation · Decision tools · Agricultural policy
+Published in the *Journal of Development Economics*, this study examines how the sex of a daughter-in-law's firstborn child influences women's mental health, time allocation, and employment within multigenerational households in India. Using firstborn sex as a source of quasi-random variation, we show that son preference affects not only mothers but also co-resident mothers-in-law.
+
+The findings demonstrate that mothers-in-law whose daughters-in-law have a firstborn son experience lower risks of anxiety and depression, devote more time to childcare, and provide greater support for daughters-in-law's employment, increasing labor-force participation among younger women.
+
+**Keywords:** Son preference · Mental health · Women's employment · Intergenerational households · India
+
+---
+
+# Ongoing Research
+
+## Cooperative Participation and Soil Conservation in the Brazilian Amazon
+
+This project investigates whether agricultural cooperatives facilitate the adoption of soil-conservation practices among farmers in Pará, Brazil. The broader objective is to understand how collective institutions reduce barriers to adopting sustainable agricultural technologies and improve environmental outcomes.
+
+**Keywords:** Agricultural cooperatives · Technology adoption · Soil conservation · Sustainable agriculture · Brazil
+
+---
+
+# Previous Research
+
+## Rice Markets, Price Stabilization, and Food Systems in South Asia
+
+At the International Food Policy Research Institute (IFPRI), I contributed to research on rice value chains, private storage, transportation systems, and food-price stabilization policies across South Asia. These projects combined household surveys, market analysis, and economic modeling to understand how market structure and public policy influence food prices, market efficiency, and value-chain performance.
+
+**Keywords:** Commodity markets · Price stabilization · Agricultural value chains · Food policy
+
+---
+
+## Postharvest Loss and Grain Storage Decisions
+
+At the ADM Institute for the Prevention of Postharvest Loss, I contributed to research on grain-storage technologies, postharvest losses, and farmers' storage decisions. My work involved economic simulation models and interactive decision-support tools designed to communicate research findings to researchers, practitioners, and policymakers.
+
+**Keywords:** Postharvest loss · Grain storage · Decision support · Agricultural policy
 
 ---
 
