@@ -21,7 +21,7 @@ My broader research interests lie at the intersection of economics, data science
 
 <div class="home-banner">
   <img
-    src="{{ '/images/bell-tower.jpeg' | relative_url }}"
+    src="{{ '/images/bell-tower.jpg' | relative_url }}"
     alt="The Bell Tower"
   >
   <p class="banner-credit">
