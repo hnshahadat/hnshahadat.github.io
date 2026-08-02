@@ -18,3 +18,16 @@ Before joining UIUC, I worked as a Research Analyst at the International Food Po
 My broader research interests lie at the intersection of economics, data science, and public policy. I am particularly interested in integrating remote sensing, geospatial data, and machine learning into empirical economic research to better understand agricultural systems, environmental change, and sustainable development.
 
 **Full CV linked [here](https://hnshahadat.github.io/files/CV_Shahadat.pdf)**
+
+<div class="home-banner">
+  <img
+    src="{{ '/images/bell-tower.jpeg' | relative_url }}"
+    alt="The Bell Tower"
+  >
+  <p class="banner-credit">
+    Source: 
+    <a href="https://www.facebook.com/UofICollegeofACES" target="_blank" rel="noopener noreferrer">
+      University of Illinois College of ACES
+    </a>
+  </p>
+</div>
