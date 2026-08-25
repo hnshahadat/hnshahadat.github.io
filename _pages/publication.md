@@ -18,6 +18,8 @@ Minot, Nicholas; **Hossain, Shahadat**; Kabir, Razin; Dorosh, Paul A.; and Rashi
 
 Dorosh, Paul A.; Minot, Nicholas; Kabir, Razin; and **Hossain, Shahadat**. 2021. “[Private Sector Rice Stocks in Bangladesh: Estimates from the Bangladesh Millers’ and Traders’ Survey (MATS) 2018](https://doi.org/10.2499/p15738coll2.134538).” *IFPRP Working Paper 6*. Washington, DC: International Food Policy Research Institute.
 
+Chowdhury, Reajul Alam; Alam, Md. Monjurul; Ali, Md. Rostom; Awal, Md. Abdul; **Hossain, Shahadat**; Kalita, Prasanta Kumar; Saha, Chayan Kumer; and Winter-Nelson, Alex. 2021. "[Private investments in modern foodgrain storage in Bangladesh: An economic feasibility analysis and potential role for the public sector](https://www.google.com/search?q=https://doi.org/10.2499/p15738coll2.136561)." *Integrated Food Research Program 12*. Washington, DC: International Food Policy Research Institute (IFPRI).
+
 ## Outreach Articles
 
 **Hossain, Shahadat** and Joe Janzen. 2022. “[The Impact of Long-Run Declines in Gasoline Use on the U.S. Corn Market](https://farmdocdaily.illinois.edu/2022/12/the-impact-of-long-run-declines-in-gasoline-use-on-the-us-corn-market.html).” *farmdoc daily* 12(195). Department of Agricultural and Consumer Economics, University of Illinois Urbana-Champaign, December 27.

@@ -30,13 +30,13 @@ children:
 
 > The analysis applies covariate-adjusted difference-in-differences and doubly robust estimators to evaluate heterogeneous responses across households with different shock exposure, initial economic conditions, and gender.
 
-**Keywords:** COVID-19 · Household shocks · Food security · Labor markets · Difference-in-differences · Bangladesh
+**Keywords:** COVID-19 · Household shocks · Food security · Labor markets · Diff-in-Diff · DRDID · Bangladesh
 
 
 
-### Son Preference, Intergenerational Household Dynamics, and Women's Mental Health in India (*Journal of Development Economics*, Coauthor) [Read the paper](https://doi.org/10.1016/j.jdeveco.2026.103867)
+### Son Preference, Intergenerational Household Dynamics, and Women's Mental Health in India (*Journal of Development Economics*) [Read the paper](https://doi.org/10.1016/j.jdeveco.2026.103867)
 
-*Coauthor*
+*Coauthored with S. Anukriti, Catalina Herrera-Almanza, and Mahesh Karra*
 
 > Published in the *Journal of Development Economics*, this study examines how the sex of a daughter-in-law's firstborn child influences women's mental health, time allocation, and employment within multigenerational households in India. Using firstborn sex as a source of quasi-random variation, we show that son preference affects not only mothers but also co-resident mothers-in-law.
 
@@ -48,7 +48,8 @@ children:
 
 ## Ongoing Research
 
-### Cooperative Participation and Soil Conservation in the Brazilian Amazon
+### Cooperative Participation and Soil Conservation in Brazil
+*with Mary Arends-Kuenning, Wander Plassa, Tiago Telles, and Keliang Xiao*
 
 > This project investigates whether agricultural cooperatives facilitate the adoption of soil-conservation practices among farmers in Pará, Brazil. The broader objective is to understand how collective institutions reduce barriers to adopting sustainable agricultural technologies and improve environmental outcomes.
 
@@ -60,6 +61,8 @@ children:
 
 ### Rice Markets, Price Stabilization, and Food Systems in South Asia
 
+*with Nicholas Minot; Paul A. Dorosh; Razin Kabir; and Shahidur Rashid*
+
 > At the International Food Policy Research Institute (IFPRI), I contributed to research on rice value chains, private storage, transportation systems, and food-price stabilization policies across South Asia. These projects combined household surveys, market analysis, and economic modeling to understand how market structure and public policy influence food prices, market efficiency, and value-chain performance.
 
 **Keywords:** Commodity markets · Price stabilization · Agricultural value chains · Food policy
@@ -67,6 +70,7 @@ children:
 ---
 
 ### Postharvest Loss and Grain Storage Decisions
+*with Reajul Alam Chowdhury, Md Monjurul Alam, Md Rostom Ali, Md Abdul Awal, Prasanta Kumar Kalita, Chayan Kumer Saha, Alex Winter-Nelson*
 
 > At the ADM Institute for the Prevention of Postharvest Loss, I contributed to research on grain-storage technologies, postharvest losses, and farmers' storage decisions. My work involved economic simulation models and interactive decision-support tools designed to communicate research findings to researchers, practitioners, and policymakers.
 
