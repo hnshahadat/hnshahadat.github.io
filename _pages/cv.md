@@ -17,8 +17,8 @@ redirect_from:
 ## Education
 ---
 
-**Ph.D. in Agricultural and Applied Economics**  
-University of Illinois Urbana-Champaign, expected August 2026  
+**Ph.D.(c) in Agricultural and Applied Economics**  
+University of Illinois Urbana-Champaign, expected Fall 2026  
 Specializations: Agricultural Commodity Markets and International Development Economics
 
 **M.S.S. in Economics**, University of Dhaka, 2015  

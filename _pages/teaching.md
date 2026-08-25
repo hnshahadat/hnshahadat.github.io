@@ -21,31 +21,4 @@ I enjoy helping students connect economic theory with real-world questions in ag
 #### Applied Statistical Methods, *Instructor*
 - Designed and taught undergraduate lectures in applied statistics and quantitative methods for economics and social science students. Covered data management, statistical inference, regression analysis, and empirical applications using real-world datasets.
 
----
-
-## Teaching Philosophy
-
-My teaching is guided by three principles:
-
-- **Build intuition first.** I use intuitive examples and visual explanations to develop students' understanding before introducing formal economic models.
-
-- **Connect theory with evidence.** I incorporate real-world applications and empirical data to demonstrate how economists analyze policy and market questions.
-
-- **Create an inclusive learning environment.** I encourage participation, provide constructive feedback, and support students with diverse backgrounds and learning styles.
-
----
-
-## Teaching Interests
-
-I am interested in teaching courses in:
-
-- Agricultural Economics
-- Development Economics
-- Applied Microeconomics
-- World Food Economy and Food Policy
-- Agricultural Commodity Markets
-- Applied Econometrics
-- Program Evaluation and Causal Inference
-- Data Analytics for Economists
-
 Additional information is available on my [CV page](/cv/).
