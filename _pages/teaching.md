@@ -10,6 +10,9 @@ I enjoy helping students connect economic theory with real-world questions in ag
 
 ### University of Illinois Urbana-Champaign
 
+#### Interm. Applied Microeconomics (ACE 300), *Teaching Assistant*
+- Assisted instruction in intermediate applied microeconomics, agricultural markets, resource allocation, and consumer behavior. Led discussion sections, held office hours, and supported students through assignments, review sessions, and exam preparation.
+
 #### World Food Economy (ACE 251), *Teaching Assistant*
 - Assisted instruction in global food systems, agricultural production, international trade, food security, and economic development. Led discussion sections, held office hours, and supported students through assignments, review sessions, and exam preparation.
 

@@ -14,11 +14,11 @@ children:
 
 ### Commodity Prices, Shadow Wages, and Household Labor Allocation under Imperfect Labor Markets [(Read the paper)](https://hnshahadat.github.io/files/Poultry_Labor_BD.pdf)
 
-> How do commodity price changes affect household labor allocation when labor markets are imperfect? This paper develops a non-separable agricultural household framework to examine how changes in local chicken and egg prices influence labor allocation through household-specific shadow wages and shadow income. Using three waves of the Bangladesh Integrated Household Survey, I combine household fixed effects with an instrumental variables strategy to recover shadow wages and identify the mechanisms linking commodity prices to household labor decisions.
+> How do commodity prices affect household labor allocation when labor markets are imperfect? Using three waves of the Bangladesh Integrated Household Survey, this paper combines a non-separable agricultural household framework with household fixed effects and an instrumental variables approach to examine how local poultry prices influence labor allocation through gender-specific shadow wages and household shadow income.
 
-> The findings show that higher household-specific shadow wages increase labor devoted to poultry production, while changes in household shadow income are associated with broader adjustments in labor allocation. The results provide new evidence on how commodity price shocks influence family labor decisions through household-specific opportunity costs rather than observed market wages.
+> The findings show that higher shadow wages increase women's participation and working hours in poultry production without significantly changing their overall labor supply. Men's labor allocation shows no significant response. These results highlight how poultry market opportunities reshape women's labor allocation within rural households.
 
-**Keywords:** Agricultural household models · Commodity markets · Shadow wages · Labor allocation · Gender · Livestock · Bangladesh
+**Keywords:** Agricultural household models · Commodity prices · Shadow wages · Labor allocation · Gender · Bangladesh
 
 ---
 
@@ -26,11 +26,11 @@ children:
 
 ### Household-Specific Shocks During an Economy-Wide Crisis: Welfare and Coping Responses in Bangladesh
 
-> This paper examines how household-specific illness and job-loss shocks affected rural households during the COVID-19 pandemic while separating these effects from the broader economy-wide disruption experienced by all households. Using household panel data collected before and during the pandemic, I estimate impacts on income, assets, food security, labor supply, migration, occupational adjustment, and participation in social protection programs.
+> How do households cope with illness and job loss when an economy-wide crisis simultaneously constrains labor markets and informal insurance? Using a two-wave panel of rural Bangladeshi households and a doubly robust difference-in-differences estimator, this paper estimates the additional effects of household-specific shocks within the broader COVID-19 disruption.
 
-> The analysis applies covariate-adjusted difference-in-differences and doubly robust estimators to evaluate heterogeneous responses across households with different shock exposure, initial economic conditions, and gender.
+> Illness and job loss reduced income, financial assets, and labor supply and increased food insecurity, while broadly stable expenditure suggests costly consumption smoothing through asset depletion, borrowing, migration, and labor reallocation. The findings support combining broad crisis assistance with targeted health, income, and employment support.
 
-**Keywords:** COVID-19 · Household shocks · Food security · Labor markets · Diff-in-Diff · DRDID · Bangladesh
+**Keywords:** COVID-19 · Household shocks · Consumption smoothing · Food security · Labor markets · DR-DID · Bangladesh
 
 
 

@@ -12,14 +12,18 @@ redirect_from:
 {: #about}
 
 I am a Ph.D. candidate in Agricultural and Applied Economics at the University 
-of Illinois Urbana-Champaign, expecting to graduate in December 2026. 
-My research uses applied econometrics and causal inference to study how prices, 
-market incentives, and public policy shape production decisions, labor allocation, 
-and household welfare in agricultural and developing-country settings. 
+of Illinois Urbana-Champaign, expecting to graduate in December 2026.
+
+My research focuses on applied microeconomics, development economics, and 
+agricultural markets. I use applied econometrics and causal inference methods 
+to examine how prices, market incentives, and public policies influence household 
+decision-making, labor allocation, and economic welfare, particularly in 
+agricultural and developing-country settings.
+
 Before and during my Ph.D., I have held research positions at the International 
-Food Policy Research Institute, the World Bank, the Bangladesh Institute of 
-Development Studies, and the BRAC Institute of Governance and Development. 
-My work has appeared in the Journal of Development Economics.
+Food Policy Research Institute (IFPRI), the World Bank, the Bangladesh Institute 
+of Development Studies (BIDS), and the BRAC Institute of Governance and 
+Development (BIGD).
 
 For more information, please visit my [Research](/research/), [Teaching](/teaching/), or [CV](/cv/) page.
 
